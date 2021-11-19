@@ -1,0 +1,16 @@
+* {
+    box-sizing:border-box;
+}
+body {
+    margin: 0;
+    padding: 0;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+.header {
+    background-color: rgb(37, 37, 37);
+    padding: 150px 100px;
+    color: white;
+    text-align:center;
+}
+
